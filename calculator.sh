@@ -6,3 +6,6 @@ a=b+c
 #subraction
 a=b-c
 
+#multiplication
+a=b*c
+
