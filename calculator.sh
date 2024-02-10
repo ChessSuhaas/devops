@@ -9,3 +9,5 @@ a=b-c
 #multiplication
 a=b*c
 
+#divison 
+a=b/c
